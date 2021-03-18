@@ -1,7 +1,7 @@
 # TicTacToe
 A simple AI TicTacToe built with pygame.
 The AI is a game playing agent which makes its best possible decisions based on the search algorithm.
-Multiple search algorithms like MinMax, Alpha Beta puring , Depth limited Search and Monte Carlo Tree Search were implemented.
+Multiple search algorithms like MinMax, Alpha Beta puring, Depth limited Search and Monte Carlo Tree Search were implemented.
 
 ### Playing TicTacToe
 To play the game simply run the <code>TicTacToe.py</code> file and then: 
